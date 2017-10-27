@@ -1,0 +1,5 @@
+.fake/
+packages/
+paket-files/
+Sample/
+output/
